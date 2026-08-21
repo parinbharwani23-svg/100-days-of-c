@@ -58,7 +58,7 @@ December, 31 days
   printf("December,31 days");
   break;
   default:
-  printf("Invalid day number");
+  printf("Invalid month number");
   }
   return 0;
 }
